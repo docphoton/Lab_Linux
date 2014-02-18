@@ -10,7 +10,7 @@ Most of the routines use the real-time extensions for timing routines. (use -lrt
 
 fmeteryslow2.c    is the multichannel strip chart recorder software 
 
-onscreen_counter.c       is a simple pulse timestamper...great for reading multiple NaI:Th crystals or GM tubes, and synthetically recording co-incidences
+onscreen_counter.c       is a simple pulse timestamper...great for reading multiple NaI:Tl crystals or GM tubes, and synthetically recording co-incidences
 
 PID5.c            digital non-linear PID code ; Hey you engineers forget what you learned about laplace transforms!!! Work in the time domain and solve the dang DE already... 
 
